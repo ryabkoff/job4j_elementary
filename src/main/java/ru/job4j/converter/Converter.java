@@ -22,5 +22,6 @@ public class Converter {
         out = Converter.rubleToEuro(in);
         passed = expected == out;
         System.out.println("180 rubles are 3. Test result : " + passed);
+
     }
 }
